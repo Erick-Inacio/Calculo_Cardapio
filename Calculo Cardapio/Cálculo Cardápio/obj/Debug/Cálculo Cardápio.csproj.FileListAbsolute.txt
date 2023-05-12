@@ -1,0 +1,42 @@
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\bin\Debug\Cálculo Cardápio.exe.config
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\bin\Debug\Cálculo Cardápio.exe
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\bin\Debug\Cálculo Cardápio.pdb
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\obj\Debug\Cálculo Cardápio.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\obj\Debug\Cálculo Cardápio.csproj.SuggestedBindingRedirects.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\obj\Debug\Cálculo_Cardápio.frmMenu.resources
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\obj\Debug\Cálculo_Cardápio.frmIMC.resources
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\obj\Debug\Cálculo_Cardápio.Properties.Resources.resources
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\obj\Debug\Cálculo Cardápio.csproj.GenerateResource.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\obj\Debug\Cálculo Cardápio.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\obj\Debug\Cálculo Cardápio.exe
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\obj\Debug\Cálculo Cardápio.pdb
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\obj\Debug\Cálculo_Cardápio.frmEER.resources
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\obj\Debug\Cálculo_Cardápio.frmBalanceamento.resources
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\obj\Debug\Cálculo_Cardápio.frmKcalRefeicao.resources
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\obj\Debug\Cálculo Cardápio.csproj.ResolveComReference.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\obj\Debug\Cálculo_Cardápio.frmTesteExcel.resources
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\bin\Debug\ClosedXML.dll
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\bin\Debug\ExcelNumberFormat.dll
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\bin\Debug\Irony.dll
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\bin\Debug\SixLabors.Fonts.dll
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\bin\Debug\System.Buffers.dll
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\bin\Debug\System.IO.Packaging.dll
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\bin\Debug\System.Memory.dll
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\bin\Debug\System.ValueTuple.dll
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\bin\Debug\XLParser.dll
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\bin\Debug\ClosedXML.xml
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\bin\Debug\ExcelNumberFormat.xml
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\bin\Debug\SixLabors.Fonts.xml
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\bin\Debug\System.Buffers.xml
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\bin\Debug\System.IO.Packaging.xml
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\bin\Debug\System.Memory.xml
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\bin\Debug\System.ValueTuple.xml
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\obj\Debug\Cálculo Cardápio.csproj.CopyComplete
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\obj\Debug\Cálculo_Cardápio.frmNewUser.resources
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cálculo Cardápio\Cálculo Cardápio\obj\Debug\Cálculo_Cardápio.frmLogin.resources
